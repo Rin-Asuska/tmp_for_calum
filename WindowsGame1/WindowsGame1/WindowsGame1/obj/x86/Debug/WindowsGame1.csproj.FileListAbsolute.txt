@@ -1,0 +1,6 @@
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+\\int\dfs\StudentHome\ec1417120\Desktop\TMP\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
